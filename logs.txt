@@ -1,0 +1,5 @@
+commit 36e54ec21973a9729fd7426fb969ee83dbaa7fd4 (HEAD -> logs, origin/master, master)
+Author: unknown <Bojana.Vasilevska@students.finki.ukim.mk>
+Date:   Tue Apr 16 15:40:32 2019 +0200
+
+    Initial commit
